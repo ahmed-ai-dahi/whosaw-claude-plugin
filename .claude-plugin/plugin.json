@@ -1,0 +1,23 @@
+{
+  "name": "whosaw",
+  "displayName": "WhoSaw",
+  "version": "1.0.0",
+  "description": "Ask about your website in plain English: how last week went, why traffic changed, where visitors came from, and whether ChatGPT, Perplexity and Claude can read your site and mention you. Reads your WhoSaw account, read-only.",
+  "author": {
+    "name": "WhoSaw",
+    "url": "https://whosaw.app",
+    "email": "support@whosaw.app"
+  },
+  "homepage": "https://whosaw.app/help/use-whosaw-in-claude",
+  "repository": "https://github.com/ahmed-ai-dahi/whosaw-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "analytics",
+    "google-analytics",
+    "ga4",
+    "ai-visibility",
+    "website",
+    "small-business"
+  ],
+  "privacyPolicyUrl": "https://whosaw.app/privacy"
+}

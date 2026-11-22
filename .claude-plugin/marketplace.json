@@ -1,0 +1,17 @@
+{
+  "name": "whosaw",
+  "owner": {
+    "name": "WhoSaw",
+    "email": "support@whosaw.app"
+  },
+  "plugins": [
+    {
+      "name": "whosaw",
+      "source": "./",
+      "description": "Ask about your website in plain English: last week's traffic, why it changed, and whether AI assistants can read and mention your site."
+    }
+  ],
+  "metadata": {
+    "description": "The WhoSaw plugin for Claude: your website analytics and AI visibility, in plain English."
+  }
+}
