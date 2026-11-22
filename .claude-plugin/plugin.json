@@ -19,5 +19,8 @@
     "website",
     "small-business"
   ],
-  "privacyPolicyUrl": "https://whosaw.app/privacy"
+  "privacyPolicyUrl": "https://whosaw.app/privacy",
+  "documentationUrl": "https://whosaw.app/help/use-whosaw-in-claude",
+  "supportUrl": "https://whosaw.app/help",
+  "termsOfServiceUrl": "https://whosaw.app/terms"
 }
